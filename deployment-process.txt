@@ -1,1 +1,2 @@
 This file contain, a part of workproject, that isn't working right.
+* This line contain a port of not working code *
